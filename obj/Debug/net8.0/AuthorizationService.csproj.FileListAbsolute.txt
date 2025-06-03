@@ -1,0 +1,17 @@
+C:\Gaby\AuthorizationService\bin\Debug\net8.0\AuthorizationService.deps.json
+C:\Gaby\AuthorizationService\bin\Debug\net8.0\AuthorizationService.runtimeconfig.json
+C:\Gaby\AuthorizationService\bin\Debug\net8.0\AuthorizationService.dll
+C:\Gaby\AuthorizationService\bin\Debug\net8.0\AuthorizationService.pdb
+C:\Gaby\AuthorizationService\obj\Debug\net8.0\AuthorizationService.csproj.AssemblyReference.cache
+C:\Gaby\AuthorizationService\obj\Debug\net8.0\AuthorizationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gaby\AuthorizationService\obj\Debug\net8.0\AuthorizationService.AssemblyInfoInputs.cache
+C:\Gaby\AuthorizationService\obj\Debug\net8.0\AuthorizationService.AssemblyInfo.cs
+C:\Gaby\AuthorizationService\obj\Debug\net8.0\AuthorizationService.csproj.CoreCompileInputs.cache
+C:\Gaby\AuthorizationService\obj\Debug\net8.0\AuthorizationService.dll
+C:\Gaby\AuthorizationService\obj\Debug\net8.0\refint\AuthorizationService.dll
+C:\Gaby\AuthorizationService\obj\Debug\net8.0\AuthorizationService.pdb
+C:\Gaby\AuthorizationService\obj\Debug\net8.0\AuthorizationService.genruntimeconfig.cache
+C:\Gaby\AuthorizationService\obj\Debug\net8.0\ref\AuthorizationService.dll
+C:\Gaby\AuthorizationService\bin\Debug\net8.0\DataBaseService.dll
+C:\Gaby\AuthorizationService\bin\Debug\net8.0\DataBaseService.pdb
+C:\Gaby\AuthorizationService\obj\Debug\net8.0\Authoriz.ECDF2498.Up2Date
